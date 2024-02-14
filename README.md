@@ -1,6 +1,6 @@
 # Smart Attendance System
 
-[Circuit Diagram](circuit diagram.jpg)
+
 
 ## Overview
 
